@@ -1,5 +1,5 @@
 # Google-Docs-Clone
-A Google Docs Clone which is a collaborative text editor. It is made using Node, React, Mongo and Socket.io.
+A Google Docs Clone which is a collaborative text editor. It is made using Node, React, Mongo, Socket.io and Quill.
 
 1) The app has the features of a text editor. It creates a new document with a unique ID. And this page with the same URL(containing the same ID) can be opened in multiple tabs of the browser which will show the exact content in each opened tab. This content can be edited by multiple people having the same URL(here document ID) and it will show in each tab the edited contents at the same time( This is the collaborative feature)
 
